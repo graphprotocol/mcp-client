@@ -1,5 +1,6 @@
 # MCP Client: `@graphprotocol/mcp`
 
+[![.github/workflows/bun-test.yml](https://github.com/graphprotocol/mcp-client/actions/workflows/bun-test.yml/badge.svg)](https://github.com/graphprotocol/mcp-client/actions/workflows/bun-test.yml)
 ![license](https://img.shields.io/github/license/graphprotocol/mcp-client)
 
 > An MCP Client for connecting to MCP Server‐compatible services at https://thegraph.market.
