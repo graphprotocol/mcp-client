@@ -1,11 +1,11 @@
-# MCP Client: `@pinax/mcp`
+# MCP Client: `@graphprotocol/mcp`
 
-![license](https://img.shields.io/github/license/pinax-network/pinax-mcp)
+![license](https://img.shields.io/github/license/graphprotocol/mcp-client)
 
 > An MCP Client for connecting to MCP Server‐compatible services at https://thegraph.market.
 
 ```console
-Usage: @pinax/mcp [options]
+Usage: @graphprotocol/mcp [options]
 
 An MCP Client for connecting to MCP Server‐compatible services at https://thegraph.market.
 
@@ -28,7 +28,7 @@ Options:
 
 ```env
 ACCESS_TOKEN=<https://thegraph.market JWT Access Token>
-SSE_URL=https://token-api.service.pinax.network/sse
+SSE_URL=https://token-api.thegraph.com/sse
 ```
 
 <img width="896" alt="Image" src="https://github.com/user-attachments/assets/43c0e662-5e30-4b7d-87a0-884d6105b6a3" />

@@ -1,14 +1,15 @@
 {
-  "name": "@pinax/mcp",
+  "name": "@graphprotocol/mcp",
   "description": "An MCP Client for connecting to MCP Server‐compatible services at https://thegraph.market.",
   "type": "module",
   "version": "0.1.6",
-  "homepage": "https://github.com/pinax-network/pinax-mcp",
+  "homepage": "https://github.com/graphprotocol/mcp-client",
   "license": "Apache-2.0",
   "keywords": ["mcp", "stdio", "sse", "ai", "llm", "blockchain"],
   "bin": {
     "pinax-mcp": "dist/index.js"
   },
+  "module": "index.ts",
   "files": [
     "dist",
     "index.ts"
@@ -47,6 +48,5 @@
     "commander": "^13.1.0",
     "dotenv": "^16.4.7",
     "zod": "^3.24.2"
-  },
-  "module": "index.ts"
+  }
 }
