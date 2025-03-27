@@ -36,6 +36,6 @@ SSE_URL=https://token-api.thegraph.com/sse
 
 ## Supported by AI Agents
 
-- [Claude Desktop](https://beta.docs.pinax.network/mcp/claude)
-- [Cline](https://beta.docs.pinax.network/mcp/cline)
-- [Cursor](https://beta.docs.pinax.network/mcp/cursor)
+- [Claude Desktop](https://thegraph.com/docs/en/token-api/mcp/claude/)
+- [Cline](https://thegraph.com/docs/en/token-api/mcp/cline/)
+- [Cursor](https://thegraph.com/docs/en/token-api/mcp/cursor/)
